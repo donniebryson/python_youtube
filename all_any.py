@@ -1,6 +1,7 @@
 # Iterables and all()/any()
 # Both all() and any() deal with the truth table across the entire scope of an iteratable. 
 
+
 # By iterable, we mean a list, tuple, dict, or set. 
 my_list = ["one", 2, "three"] # mutable 
 my_tuple = ("one", 2, "three") # immutable 
