@@ -1,6 +1,6 @@
 # A match statement is similar to switch in other languages. 
 # Match compares a value to patterns with a case statement. 
-""" my_size = ("small", "medium", "large")
+""" """ my_size = ("small", "medium", "large")
 
 for this_size in my_size:
     match this_size:
@@ -11,7 +11,7 @@ for this_size in my_size:
         case "large":
             print(this_size, ": I am large.")
  """
-x = 5
+ """x = 5
 y = 9
 points = ((0,0), (0,y), (x,0), (x, y), ("Make Error"))
 for p in points:
