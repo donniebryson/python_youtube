@@ -1,5 +1,5 @@
 # Simple python commands 
-# The basic math operators in python are: + - / // * %
+# The basic math operators in python are: + - / // * % ** 
 # Operators and numbers between the parenthese of a print command execute just as they do in the python 
 # command line. 
 # addition
@@ -23,6 +23,6 @@ print(4 // 3)
 print(5 % 3)
 print(5 // 3)
 
-# Raise to a power with **
-# Raise 4 to the power of 2
+# Exponential operator is **. In other words, raise a number to a power with **
+# This raises 4 to the power of 2
 print(4**2)
