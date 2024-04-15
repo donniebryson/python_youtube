@@ -1,4 +1,4 @@
-# Examples of using the comparison operators
+# Examples of using greater and less than operators
 
 import sys
 
@@ -25,3 +25,5 @@ if comp == ">":
         print("{0} is equal {1}".format(var1, var2))
     else:
         print("{0} is not greater than {1}".format(var1, var2))
+
+        
