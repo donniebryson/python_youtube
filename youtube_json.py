@@ -11,9 +11,9 @@ JSON strings must have double quotes but dictionary strings can be double or sin
 import json
 # json.dumps takes a python dictionary and converts it to a JSON string
 to_json = {"flag":True, "name":"donnie"}
-print(to_json)
+print("dictionary", to_json)
 now_json = json.dumps(to_json)
-print(now_json)
+print("JSON string", now_json)
 #now_json = json.dumps(to_json)
 
 #print(now_json)
