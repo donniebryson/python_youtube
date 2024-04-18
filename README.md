@@ -9,3 +9,4 @@ Self-documenting code with enums on YouTube can be viewed here: https://youtu.be
 
 The os module on YouTube can be viewed here: https://youtu.be/Jhb_H4HlWZ4
 
+Moving JSON in and out of python: https://youtu.be/hA0O-nvawQ0
