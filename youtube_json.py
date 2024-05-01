@@ -18,3 +18,6 @@ now_json = json.dumps(to_json)
 print("JSON string", now_json)
 from_json = json.loads(now_json)
 print("Data was JSON and now a dictionary -- ", from_json)
+ 
+
+ 
